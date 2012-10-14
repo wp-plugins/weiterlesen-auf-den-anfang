@@ -1,5 +1,5 @@
 === Weiterlesen auf den Anfang ===
-Contributors: perun
+Contributors: Perun
 Donate link: http://www.perun.net
 Tags: read more, posts
 Requires at least: 3.3

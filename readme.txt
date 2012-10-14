@@ -1,4 +1,4 @@
-=== Weiterlesen-Start ===
+=== Weiterlesen auf den Anfang ===
 Contributors: perun
 Donate link: http://www.perun.net
 Tags: read more, posts
@@ -34,4 +34,4 @@ None (keine)
 
 == Upgrade Notice ==
 
-Einfach die Plugin-Dateien Ã¼berschreiben.
+Einfach die Plugin-Dateien überschreiben.
